@@ -1,7 +1,8 @@
 # Python-MVC
 
 ### A python model view controller poject with web.py module.
-User can register an account login and logout there is also a saved seasion for each login.
+User can register an account login and logout there is also a saved session for each login.
+
 Technologies used:
 * web.py
 * html-css
